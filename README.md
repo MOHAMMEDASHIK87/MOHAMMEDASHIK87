@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @MOHAMMED ASHIk
 - 🌱 I’m currently learning ... Artificial intelligence and Machine learning 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ashikrafeek21@gmail.com
