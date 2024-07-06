@@ -9,8 +9,6 @@ Here's a streamlined version of your GitHub profile README focusing solely on AI
 - 💡 Exploring the latest trends in generative AI and deep learning
 - 💞️ Looking to collaborate on cutting-edge AI/ML projects
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mohammed-ashik-a337b4315/)
-- 😄 Pronouns: [Fast Learner]
+- 😄 Pronouns: Fast Learner
 
 ---
-
-Just fill in your pronouns, and it's ready!
