@@ -1,4 +1,4 @@
-# Hi, I’m @MOHAMMEDASHIK I'm a 
+# Hi, I’m @MOHAMMEDASHIK 
   AI And ML Engineer 
 
 - 👀 Passionate about AI and ML
