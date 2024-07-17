@@ -1,8 +1,5 @@
-Here's a streamlined version of your GitHub profile README focusing solely on AI and ML:
-
----
-
-# Hi, I’m @MOHAMMEDASHIK
+# Hi, I’m @MOHAMMEDASHIK I'm a 
+  AI And ML Engineer 
 
 - 👀 Passionate about AI and ML
 - 🌱 Currently diving deep into artificial intelligence and machine learning
