@@ -65,5 +65,3 @@
 - 🐙 GitHub: [MOHAMMEDASHIK87](https://github.com/MOHAMMEDASHIK87)
 
 ---
-
-*"Data is the new oil — and I'm here to refine it! 🔥"*
